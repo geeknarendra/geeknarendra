@@ -29,6 +29,6 @@
 
 <p>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=geeknarendra&bg_color=00000000&text_color=FFFFFF&show_icons=true&locale=en&layout=compact" alt="geeknarendra" />
-  <img width="48%"src="https://github-readme-streak-stats.herokuapp.com/?user=programmergaurav&theme=dark" alt="geeknarendra" />
+  <img width="48%"src="https://github-readme-streak-stats.herokuapp.com/?user=geeknarendra&theme=tokyonight" alt="geeknarendra" />
 </p>
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=geeknarendra&theme=rogue" />
