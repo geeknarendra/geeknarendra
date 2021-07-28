@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Web dev Project**
 
-- 🌱 I’m currently learning **Web Development, Linux Administration**
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **Computer Networking**
 
