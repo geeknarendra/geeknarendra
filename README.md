@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Computer Networking**
 
-- 📫 How to reach me **nikhilbajwal16@gmail.com**
+- 📫 How to reach me **narendrasinghbajwal@gmail.com**
 - 📄 Know about my experiences [My LinkedIn](https://www.linkedin.com/in/narendra-singh-bajwal/)
 
 - ⚡ Fun fact **I Code and Also lift Weight**
