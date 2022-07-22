@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Narendra Singh Bajwal</h1>
-<h3 align="center">Web Developer | Cyber Evangelist | Competitive Coder |</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geeknarendra&label=Profile%20views&color=0e75b6&style=flat" alt="geeknarendra" /> </p>
 <br>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🔭 I’m currently working on **Web dev Project**
+- 🔭 I’m currently working on **DSA**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **DSA**
 
 - 💬 Ask me about **Computer Networking**
 
